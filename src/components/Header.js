@@ -4,7 +4,7 @@ const Header = () => {
 // function Header () {
     return (
         <header>
-            <h1>Things To Do</h1>
+            <h1>Jang's To Do</h1>
             <p>Enter your item(s) via input field</p>
         </header>
     )
