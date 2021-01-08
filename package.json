@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
 
-  "homepage": "htpps://tkword.github.io/todo",
+  "homepage": "https://tkword.github.io/todo",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
